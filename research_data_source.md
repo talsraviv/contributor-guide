@@ -12,6 +12,15 @@ Start by reviewing the [criteria for Spice data sources](https://duck.co/duckduc
 
 ## See What the Community Needs
 
-Next, take a look at what potential Instant Answers [need your help](https://duck.co/ideas/status/2?table_WkTEbgunqsQjmik4czmRBA_sort=votes) with finding sources. Comment on the threads with questions or ideas. If you feel the thread could use a nudge - [tell us](open@duckduckgo.com) and we'll help you get the conversation going.
+Next, take a look at what potential Instant Answers [need your help](https://duck.co/ideas/status/2?table_WkTEbgunqsQjmik4czmRBA_sort=votes) with finding sources. Comment on the threads with questions or ideas. (If you feel the thread could use a nudge - [tell us](mailto:open@duckduckgo.com) and we'll help you get the conversation going.)
 
-Have a better source of information for an existing Instant Answer? [Raise an issue](https://github.com/duckduckgo/zeroclickinfo-spice/issues/new) on the Spice GitHub repository, or tell us what you're thinking at [open@duckduckgo.com](open@duckduckgo.com).
+Have a better source of information for an existing Instant Answer? [Raise an issue](https://github.com/duckduckgo/zeroclickinfo-spice/issues/new) on the Spice GitHub repository, or tell us what you're thinking at [open@duckduckgo.com](mailto:open@duckduckgo.com). We'll help you rally the right people to take a look 
+
+## Reach Out
+
+If you have any questions at any point, feel free to chime in on our community channels:
+
+- [DuckDuckHack mailing list](https://duck.co/redir/?u=https%3A%2F%2Fwww.listbox.com%2Fsubscribe%2F%3Flist_id%3D197814)
+- [Gitter chat](https://duck.co/redir/?u=https%3A%2F%2Fgitter.im%2Fduckduckgo%2FIdeas)
+
+Or, as always, feel free to email us directly at [open@duckduckgo.com](mailto:open@duckduckgo.com)
