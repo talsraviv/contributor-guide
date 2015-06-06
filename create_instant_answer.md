@@ -6,6 +6,12 @@ You may desire to improve your personal search results, bring exposure to a sour
 
 Learn the big picture of Instant Answers - [read an overview](https://duck.co/duckduckhack/ddh-intro).
 
+<blockquote>
+<p>It was my first time contributing to an open source project and I haven&#39;t been able to stop since. Keep being awesome, and thanks for inspiring me :) </p>
+
+<p>prezjordan on Hacker News</p>
+</blockquote>
+
 ## Make Your First Commit
 
 What makes the DuckDuckGo community so great is how quickly new contributors can start committing code. To see just how quickly we mean, try our [Quick Start Goodie](https://duck.co/duckduckhack/goodie_quickstart) Tutorial. It will help you set up your environment, fork the repository, and walk you through creating the simplest possible Instant Answer.
