@@ -1,4 +1,4 @@
-# Create Your Own Instant Answer
+# Create an Instant Answer
 
 Creating an Instant Answer is the most exciting way to contribute to the community. 
 
