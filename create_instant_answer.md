@@ -2,9 +2,9 @@
 
 Creating an Instant Answer is the most exciting way to contribute to the community. 
 
-You may desire to improve your personal search results, bring exposure to a source of great data, or simply enjoy collaborating with smart people around the world. Either way, your code - when live - will be accessible to millions of searchers every day. 
+Whether you want to improve your personal search results, bring exposure to a source of great data, or simply enjoy collaborating with smart people around the world, your live code will help millions of searchers every day. 
 
-Learn the big picture of Instant Answers - [read an overview](https://duck.co/duckduckhack/ddh-intro).
+Learn the [big picture of creating Instant Answers](https://duck.co/duckduckhack/ddh-intro).
 
 <blockquote>
 <p>It was my first time contributing to an open source project and I haven&#39;t been able to stop since. Keep being awesome, and thanks for inspiring me :) </p>
@@ -27,7 +27,7 @@ Do not hesitate to email us directly at [open@duckduckgo.com](mailto:open@duckdu
 
 ## Improve a Live Instant Answer
 
-We recommend that your first contribution to Instant Answers is to improve one that's already live. Many contributors report completing their first fix within two hours of forking the repository.
+We recommend that your first live contribution to Instant Answers is to improve one that's already live. Many contributors report completing their first fix within two hours of forking the repository.
 
 The best place to get started is by looking at "low-hanging fruit" fixes, which we've made sure to identify throughout our repositories for new contributors.
 
@@ -36,7 +36,7 @@ The best place to get started is by looking at "low-hanging fruit" fixes, which 
 
 Fixing a small bug is a great hands-on way to learn how each Instant Answer functions. Feel free to [ask us anything](mailto:open@duckduckgo.com), and don't forget to check out the [Instant Answer documentation](https://duck.co/duckduckhack/ddh-intro).
 
-## Start Planning Your Own Instant Answer
+## Create a New Instant Answer
 
 By this point, you're more comfortable with contributing, and have a better idea of the Instant Answer framework. Now it's time to think about creating an Instant Answer of your own!
 
@@ -44,6 +44,8 @@ Bring your own idea, or check out the ideas forum - especially [top voted answer
 
 The first step is to research and plan your Instant Answer. Consider [the best way to implement](https://duck.co/duckduckhack/determine_your_instant_answer_type) your idea, and [involve us in your thinking](mailto:open@duckduckgo.com).
 
-<!-- Next, open an IA page? -->
+**The first step to implementing an Instant Answer is to let us know you're working on one:** Email us at [open@duckduckgo.com](mailto:open@duckduckgo.com) and let us know what idea you're working on, as well as your initial thoughts on implementation. 
 
-<!-- What is the role of Duck.co/IA? What is the practical first step>
+We'll help you plan, using our experience from current Instant Answers. We'll also be ready to answer your questions along the way. We'll create a [central Instant Answer page](http://www.duck.co/ia) on the community platform so others can know you're working on it and how they can help you.
+
+[Talk to us!](mailto:open@duckduckgo.com)
